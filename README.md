@@ -25,6 +25,6 @@ A beginner-friendly Python tool that analyzes stock data using Yahoo Finance, ca
 - yfinance
 - matplotlib
 
-## Status
+## 📌 Status
 
 Actively being developed — next planned feature is multi-stock comparison.
