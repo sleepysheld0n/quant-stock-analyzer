@@ -1,8 +1,8 @@
-# Quant Stock Analyzer
+# 📈 Quant Stock Analyzer
 
 A beginner-friendly Python tool that analyzes stock data using Yahoo Finance, calculating key quantitative finance metrics.
 
-## Features
+## ✨ Features
 
 - Fetches live historical stock data (via `yfinance`)
 - Plots closing price with 20-day and 50-day moving averages
@@ -12,19 +12,19 @@ A beginner-friendly Python tool that analyzes stock data using Yahoo Finance, ca
 - Calculates cumulative return (growth of $1 invested)
 - Calculates Sharpe ratio (annualized, risk-adjusted return)
 
-## How to run
+## ⚙️ How to run
 
 1. Clone this repository
-2. Install dependencies
-3. Run the analyzer
+2. Install dependencies: pip install -r requiements.txt
+3. Run the analyzer: python main.py
 
-## Built with
+## 🛠️ Built with
 
 - Python
 - pandas
 - yfinance
 - matplotlib
 
-## Status
+## 📌 Status
 
 Actively being developed — next planned feature is multi-stock comparison.
